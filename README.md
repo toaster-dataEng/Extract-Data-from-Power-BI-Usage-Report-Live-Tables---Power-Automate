@@ -60,7 +60,8 @@ Identify Table Fields you want to extract > Click each field > Table should fill
 Click VIEW Tab > Performance Analyzer > Hit Start Recording > On the Table Visual, Click on Analyze this Visual on the bottom >
 At the Performance Analyzer tab > Expand the + sign after you clicked 'Analyze this visual' > Then Copy Query
 
-
+Code to insert CSV to excel workbook:
+https://learn.microsoft.com/en-us/office/dev/scripts/resources/samples/convert-csv
 
 
 
