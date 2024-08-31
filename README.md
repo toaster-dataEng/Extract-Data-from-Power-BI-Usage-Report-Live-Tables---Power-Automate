@@ -16,34 +16,42 @@ The tool aims to automatically / programmatically extract data from the LIVE Pow
 
 
 2nd part of the flow: Report Views
+
 ![image](https://github.com/user-attachments/assets/6a64976f-f292-4a71-bdf1-c6cae1903b2b)
 
 
 3rd part of the flow: Reports
+
 ![image](https://github.com/user-attachments/assets/d6167cb7-58d7-427c-9ea5-ffa591fad7a6)
 
 
 4th part of the flow: Users
+
 ![image](https://github.com/user-attachments/assets/b3b6c0a5-a024-4950-928a-509c0a0d345e)
 
 
 5th part of the flow: Workspace Reports
+
 ![image](https://github.com/user-attachments/assets/36531c75-ce25-46f5-b4ce-26a7c7a00ee0)
 
 
 6th part of the flow: Workspace Views
+
 ![image](https://github.com/user-attachments/assets/4c85ed29-84b8-4847-aa44-5112c9242425)
 
 
 7th part of the flow: Report Pages
+
 ![image](https://github.com/user-attachments/assets/e9e8df4e-3b63-4316-aca0-9fa17b84c064)
 
 
 8th part of the flow: Report Load Times
+
 ![image](https://github.com/user-attachments/assets/da1789fc-3b6e-4524-896e-74571cc81814)
 
 
 9th part of the flow: Model Measures
+
 ![image](https://github.com/user-attachments/assets/2fcfe22c-4dc1-47d5-8970-8def9f9c4cf7)
 
 Highlevel steps to get the DAX query:
