@@ -1,5 +1,5 @@
 # Extract-Data-from-Power-BI-Usage-Report-Live-Tables---Power-Automate
-Extract Data from Power BI Usage Report Live Tables - Power Automate  
+Extract Data from Power BI Usage Report Live Tables - Power Automate - Save to Excel as separate sheet
 
 Connections: 
 Excel Online (Business) 
